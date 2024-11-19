@@ -92,7 +92,3 @@ Aqui está o `package.json` atualizado:
 - Certifique-se de que todos os testes estejam com a função `test()` corretamente definida e importada.
 - Se houver algum erro no teste, o Jest irá exibir uma mensagem de erro indicando onde o problema está ocorrendo.
 
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
